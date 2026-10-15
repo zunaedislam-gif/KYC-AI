@@ -1,0 +1,6 @@
+{
+  "name": "KYC-AI — Intelligent Customer Onboarding & Document Verification",
+  "description": "Enterprise-grade customer onboarding simulation with document OCR extraction, form validation, mismatch detection, tampering heuristics, and human reviewer case management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
